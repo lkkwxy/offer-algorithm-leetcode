@@ -11,4 +11,7 @@ import Foundation
 /// 剑指 Offer 03. 数组中重复的数字
 print(findRepeatNumber([2, 3, 1, 0, 2, 5, 3]))
 
+/// 剑指 Offer 04. 二维数组中的查找
+var matrix = [[-5]]
+print(findNumberIn2DArray(matrix, -5))
 
