@@ -15,3 +15,5 @@ print(findRepeatNumber([2, 3, 1, 0, 2, 5, 3]))
 var matrix = [[-5]]
 print(findNumberIn2DArray(matrix, -5))
 
+/// 剑指 Offer 05. 替换空格
+print(replaceSpace("We are0 happy."))
