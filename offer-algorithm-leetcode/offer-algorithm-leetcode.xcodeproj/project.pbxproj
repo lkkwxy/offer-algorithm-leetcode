@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */; };
 		F866C15B25315A8A00D2F02C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C15A25315A8A00D2F02C /* main.swift */; };
 		F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */; };
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		F866C15725315A8A00D2F02C /* offer-algorithm-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "offer-algorithm-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F866C15A25315A8A00D2F02C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */,
 				F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */,
 				F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */,
+				81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */,
 				F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */,
 				F866C15B25315A8A00D2F02C /* main.swift in Sources */,
 				F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */,
