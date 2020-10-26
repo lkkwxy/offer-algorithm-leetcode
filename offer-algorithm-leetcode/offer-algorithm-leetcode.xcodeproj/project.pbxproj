@@ -10,6 +10,7 @@
 		81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */; };
 		81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */; };
 		81BF2CC12546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CC02546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift */; };
+		81BF2CC42547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CC32547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift */; };
 		F866C15B25315A8A00D2F02C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C15A25315A8A00D2F02C /* main.swift */; };
 		F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */; };
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
@@ -32,6 +33,7 @@
 		81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 07. 重建二叉树.swift"; sourceTree = "<group>"; };
 		81BF2CC02546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 09. 用两个栈实现队列.swift"; sourceTree = "<group>"; };
+		81BF2CC32547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 12. 矩阵中的路径.swift"; sourceTree = "<group>"; };
 		F866C15725315A8A00D2F02C /* offer-algorithm-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "offer-algorithm-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F866C15A25315A8A00D2F02C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */,
 				81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */,
 				81BF2CC02546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift */,
+				81BF2CC32547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */,
+				81BF2CC42547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift in Sources */,
 				F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */,
 				81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */,
 				F866C15B25315A8A00D2F02C /* main.swift in Sources */,
