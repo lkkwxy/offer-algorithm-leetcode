@@ -18,3 +18,4 @@ print(findNumberIn2DArray(matrix, -5))
 /// 剑指 Offer 05. 替换空格
 print(replaceSpace("We are0 happy."))
 
+print(exist([["a","a"]], "aaa"))
