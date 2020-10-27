@@ -18,6 +18,7 @@
 		F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */; };
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
 		F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */; };
+		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
 		F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 04. 二维数组中的查找.swift"; sourceTree = "<group>"; };
 		F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 05. 替换空格.swift"; sourceTree = "<group>"; };
+		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				81BF2CC625471E2D00F2E47E /* 剑指 Offer 11. 旋转数组的最小数字.swift */,
 				81BF2CC925471E7900F2E47E /* 剑指 Offer 10- II. 青蛙跳台阶问题.swift */,
 				81BF2CCD25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift */,
+				F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				81BF2CC725471E2D00F2E47E /* 剑指 Offer 11. 旋转数组的最小数字.swift in Sources */,
 				F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */,
 				F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */,
+				F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */,
 				81BF2CC12546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift in Sources */,
 				81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */,
 			);
