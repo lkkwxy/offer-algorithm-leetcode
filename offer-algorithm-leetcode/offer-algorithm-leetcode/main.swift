@@ -18,3 +18,4 @@ print(findNumberIn2DArray(matrix, -5))
 print(replaceSpace("We are0 happy."))
 
 print(movingCount(2, 3, 9))
+print(cuttingRope(10))

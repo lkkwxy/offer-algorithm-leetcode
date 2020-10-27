@@ -19,6 +19,7 @@
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
 		F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */; };
 		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
+		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 04. 二维数组中的查找.swift"; sourceTree = "<group>"; };
 		F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 05. 替换空格.swift"; sourceTree = "<group>"; };
 		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
+		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				81BF2CC925471E7900F2E47E /* 剑指 Offer 10- II. 青蛙跳台阶问题.swift */,
 				81BF2CCD25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift */,
 				F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */,
+				F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */,
 				81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */,
 				81BF2CC42547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift in Sources */,
 				F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */,
