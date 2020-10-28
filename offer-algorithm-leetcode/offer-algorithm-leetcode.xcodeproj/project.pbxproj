@@ -22,6 +22,7 @@
 		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
 		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 		F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */; };
+		F8F872AB25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 		F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- II. 剪绳子 II.swift"; sourceTree = "<group>"; };
+		F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 16. 数值的整数次方.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */,
 				F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */,
 				81BF2CDE25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift */,
+				F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */,
 				81BF2CDF25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift in Sources */,
+				F8F872AB25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift in Sources */,
 				F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */,
 				81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */,
 				81BF2CC42547199C00F2E47E /* 剑指 Offer 12. 矩阵中的路径.swift in Sources */,
