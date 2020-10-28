@@ -23,6 +23,7 @@
 		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 		F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */; };
 		F8F872AB25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */; };
+		F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872AD25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 		F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- II. 剪绳子 II.swift"; sourceTree = "<group>"; };
 		F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 16. 数值的整数次方.swift"; sourceTree = "<group>"; };
+		F8F872AD25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 17. 打印从1到最大的n位数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */,
 				81BF2CDE25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift */,
 				F8F872AA25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift */,
+				F8F872AD25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -134,7 +137,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
-				LastUpgradeCheck = 1200;
+				LastUpgradeCheck = 1210;
 				TargetAttributes = {
 					F866C15625315A8A00D2F02C = {
 						CreatedOnToolsVersion = 12.0;
@@ -179,6 +182,7 @@
 				F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */,
 				F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */,
 				81BF2CC12546457100F2E47E /* 剑指 Offer 09. 用两个栈实现队列.swift in Sources */,
+				F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */,
 				81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +308,7 @@
 		F866C15F25315A8A00D2F02C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HJF46GBGJQ;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -315,6 +320,7 @@
 		F866C16025315A8A00D2F02C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HJF46GBGJQ;
 				ENABLE_HARDENED_RUNTIME = YES;

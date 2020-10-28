@@ -33,6 +33,7 @@ import Foundation
 
 func hammingWeight(_ n: Int) -> Int {
     var n = n
+    var result = 0
     while n != 0 {
         result += 1
         n = n & (n - 1)
