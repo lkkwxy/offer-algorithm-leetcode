@@ -16,6 +16,8 @@
 		81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CCD25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift */; };
 		81BF2CDF25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CDE25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift */; };
 		81BF2CE3254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */; };
+		81BF2CE6254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */; };
+		81BF2CE9254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */; };
 		F84D770C254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */; };
 		F84D776D254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */; };
 		F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */; };
@@ -55,6 +57,8 @@
 		81BF2CCD25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 10- I. 斐波那契数列.swift"; sourceTree = "<group>"; };
 		81BF2CDE25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 15. 二进制中1的个数.swift"; sourceTree = "<group>"; };
 		81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 26. 树的子结构 .swift"; sourceTree = "<group>"; };
+		81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 27. 二叉树的镜像.swift"; sourceTree = "<group>"; };
+		81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 28. 对称的二叉树.swift"; sourceTree = "<group>"; };
 		F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 20. 表示数值的字符串.swift"; sourceTree = "<group>"; };
 		F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift"; sourceTree = "<group>"; };
 		F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 22. 链表中倒数第k个节点.swift"; sourceTree = "<group>"; };
@@ -127,6 +131,8 @@
 				F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */,
 				F84D7772254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift */,
 				81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */,
+				81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */,
+				81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -189,6 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */,
+				81BF2CE9254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift in Sources */,
 				81BF2CDF25486FE000F2E47E /* 剑指 Offer 15. 二进制中1的个数.swift in Sources */,
 				F8F872AB25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift in Sources */,
 				F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */,
@@ -212,6 +219,7 @@
 				F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */,
 				F8F872B5254918E80040A8B0 /* 剑指 Offer 19. 正则表达式匹配.swift in Sources */,
 				81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */,
+				81BF2CE6254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
