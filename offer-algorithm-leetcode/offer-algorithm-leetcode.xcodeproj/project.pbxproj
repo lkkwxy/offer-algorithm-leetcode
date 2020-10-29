@@ -18,6 +18,7 @@
 		81BF2CE3254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */; };
 		81BF2CE6254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */; };
 		81BF2CE9254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */; };
+		81BF2CEC254B155500F2E47E /* 剑指 Offer 29. 顺时针打印矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CEB254B155500F2E47E /* 剑指 Offer 29. 顺时针打印矩阵.swift */; };
 		F84D770C254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */; };
 		F84D776D254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */; };
 		F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */; };
@@ -59,6 +60,7 @@
 		81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 26. 树的子结构 .swift"; sourceTree = "<group>"; };
 		81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 27. 二叉树的镜像.swift"; sourceTree = "<group>"; };
 		81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 28. 对称的二叉树.swift"; sourceTree = "<group>"; };
+		81BF2CEB254B155500F2E47E /* 剑指 Offer 29. 顺时针打印矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 29. 顺时针打印矩阵.swift"; sourceTree = "<group>"; };
 		F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 20. 表示数值的字符串.swift"; sourceTree = "<group>"; };
 		F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift"; sourceTree = "<group>"; };
 		F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 22. 链表中倒数第k个节点.swift"; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				81BF2CE2254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift */,
 				81BF2CE5254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift */,
 				81BF2CE8254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift */,
+				81BF2CEB254B155500F2E47E /* 剑指 Offer 29. 顺时针打印矩阵.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				81BF2CC725471E2D00F2E47E /* 剑指 Offer 11. 旋转数组的最小数字.swift in Sources */,
 				F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */,
 				F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */,
+				81BF2CEC254B155500F2E47E /* 剑指 Offer 29. 顺时针打印矩阵.swift in Sources */,
 				F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */,
 				81BF2CE3254B045800F2E47E /* 剑指 Offer 26. 树的子结构 .swift in Sources */,
 				F84D7773254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift in Sources */,
