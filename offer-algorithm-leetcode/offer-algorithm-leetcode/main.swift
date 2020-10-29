@@ -19,3 +19,4 @@ print(replaceSpace("We are0 happy."))
 
 print(movingCount(2, 3, 9))
 print(cuttingRope2(10))
+print(isMatch("", ".*"))
