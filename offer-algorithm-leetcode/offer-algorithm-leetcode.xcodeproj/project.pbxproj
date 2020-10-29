@@ -19,6 +19,7 @@
 		F84D776D254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */; };
 		F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */; };
 		F84D7773254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7772254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift */; };
+		F84D7776254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7775254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift */; };
 		F866C15B25315A8A00D2F02C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C15A25315A8A00D2F02C /* main.swift */; };
 		F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */; };
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
@@ -57,6 +58,7 @@
 		F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift"; sourceTree = "<group>"; };
 		F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 22. 链表中倒数第k个节点.swift"; sourceTree = "<group>"; };
 		F84D7772254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 24. 反转链表.swift"; sourceTree = "<group>"; };
+		F84D7775254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 25. 合并两个排序的链表.swift"; sourceTree = "<group>"; };
 		F866C15725315A8A00D2F02C /* offer-algorithm-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "offer-algorithm-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F866C15A25315A8A00D2F02C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */,
 				F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */,
 				F84D7772254ADF2300CD31E0 /* 剑指 Offer 24. 反转链表.swift */,
+				F84D7775254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				F8F872B225490F7D0040A8B0 /* 剑指 Offer 18. 删除链表的节点.swift in Sources */,
 				F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */,
 				F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */,
+				F84D7776254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift in Sources */,
 				F8F872B5254918E80040A8B0 /* 剑指 Offer 19. 正则表达式匹配.swift in Sources */,
 				81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */,
 			);
