@@ -29,6 +29,7 @@
 		F84D783F254BCA2E00CD31E0 /* 剑指 Offer 32 - I. 从上到下打印二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D783E254BCA2E00CD31E0 /* 剑指 Offer 32 - I. 从上到下打印二叉树.swift */; };
 		F84D7843254BCB0500CD31E0 /* 剑指 Offer 32 - II. 从上到下打印二叉树 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7842254BCB0500CD31E0 /* 剑指 Offer 32 - II. 从上到下打印二叉树 II.swift */; };
 		F84D7846254BCC9B00CD31E0 /* 剑指 Offer 32 - III. 从上到下打印二叉树 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7845254BCC9B00CD31E0 /* 剑指 Offer 32 - III. 从上到下打印二叉树 III.swift */; };
+		F84D7849254BDCB100CD31E0 /* 剑指 Offer 33. 二叉搜索树的后序遍历序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7848254BDCB100CD31E0 /* 剑指 Offer 33. 二叉搜索树的后序遍历序列.swift */; };
 		F866C15B25315A8A00D2F02C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C15A25315A8A00D2F02C /* main.swift */; };
 		F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */; };
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
@@ -77,6 +78,7 @@
 		F84D783E254BCA2E00CD31E0 /* 剑指 Offer 32 - I. 从上到下打印二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 32 - I. 从上到下打印二叉树.swift"; sourceTree = "<group>"; };
 		F84D7842254BCB0500CD31E0 /* 剑指 Offer 32 - II. 从上到下打印二叉树 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 32 - II. 从上到下打印二叉树 II.swift"; sourceTree = "<group>"; };
 		F84D7845254BCC9B00CD31E0 /* 剑指 Offer 32 - III. 从上到下打印二叉树 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 32 - III. 从上到下打印二叉树 III.swift"; sourceTree = "<group>"; };
+		F84D7848254BDCB100CD31E0 /* 剑指 Offer 33. 二叉搜索树的后序遍历序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 33. 二叉搜索树的后序遍历序列.swift"; sourceTree = "<group>"; };
 		F866C15725315A8A00D2F02C /* offer-algorithm-leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "offer-algorithm-leetcode"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F866C15A25315A8A00D2F02C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F866C16225315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 03. 数组中重复的数字.swift"; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				F84D783E254BCA2E00CD31E0 /* 剑指 Offer 32 - I. 从上到下打印二叉树.swift */,
 				F84D7842254BCB0500CD31E0 /* 剑指 Offer 32 - II. 从上到下打印二叉树 II.swift */,
 				F84D7845254BCC9B00CD31E0 /* 剑指 Offer 32 - III. 从上到下打印二叉树 III.swift */,
+				F84D7848254BDCB100CD31E0 /* 剑指 Offer 33. 二叉搜索树的后序遍历序列.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */,
 				F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */,
 				F84D7776254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift in Sources */,
+				F84D7849254BDCB100CD31E0 /* 剑指 Offer 33. 二叉搜索树的后序遍历序列.swift in Sources */,
 				F8F872B5254918E80040A8B0 /* 剑指 Offer 19. 正则表达式匹配.swift in Sources */,
 				81BF2CCE25471EE700F2E47E /* 剑指 Offer 10- I. 斐波那契数列.swift in Sources */,
 				81BF2CE6254B0DA000F2E47E /* 剑指 Offer 27. 二叉树的镜像.swift in Sources */,
