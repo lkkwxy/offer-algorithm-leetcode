@@ -23,3 +23,5 @@ print(isMatch("", ".*"))
 print(isNumber("."))
 print(exchange([1]))
 print(spiralOrder([[7,8,9]]))
+//p2 p1 po1 po2 p0 po0
+print(validateStackSequences([2,1,0], [1,2,0]))
