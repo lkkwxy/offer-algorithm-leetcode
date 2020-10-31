@@ -25,14 +25,26 @@ import Foundation
  15   7
  
  */
-public class TreeNode {
+public class TreeNode: Equatable {
+    public static func == (lhs: TreeNode, rhs: TreeNode) -> Bool {
+        return isEqual(lhs: lhs, rhs: rhs)
+    }
+    
+    static func isEqual(lhs: TreeNode?, rhs: TreeNode?) -> Bool {
+        if let lhs = lhs, let rhs = rhs {
+            return lhs.val == rhs.val && isEqual(lhs: lhs.left, rhs: rhs.left) && isEqual(lhs: lhs.right, rhs: rhs.right)
+        } else {
+            return lhs == nil && rhs == nil
+        }
+    }
+    
     public var val: Int
     public var left: TreeNode?
     public var right: TreeNode?
-    public init(_ val: Int) {
+    public init(_ val: Int, _ left: TreeNode? = nil, _ right: TreeNode? = nil) {
         self.val = val
-        self.left = nil
-        self.right = nil
+        self.left = left
+        self.right = right
     }
 }
 class Solution {
