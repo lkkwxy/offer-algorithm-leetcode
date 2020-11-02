@@ -46,6 +46,7 @@
 		F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */; };
 		F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */; };
 		F89021B1254FC21900984069 /* 剑指 Offer 45. 把数组排成最小的数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89021B0254FC21900984069 /* 剑指 Offer 45. 把数组排成最小的数.swift */; };
+		F8AB65D32550087A005D0EC4 /* 剑指 Offer 46. 把数字翻译成字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB65D22550087A005D0EC4 /* 剑指 Offer 46. 把数字翻译成字符串.swift */; };
 		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
 		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 		F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */; };
@@ -108,6 +109,7 @@
 		F866C1C2253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 04. 二维数组中的查找.swift"; sourceTree = "<group>"; };
 		F866C1C72531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 05. 替换空格.swift"; sourceTree = "<group>"; };
 		F89021B0254FC21900984069 /* 剑指 Offer 45. 把数组排成最小的数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 45. 把数组排成最小的数.swift"; sourceTree = "<group>"; };
+		F8AB65D22550087A005D0EC4 /* 剑指 Offer 46. 把数字翻译成字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 46. 把数字翻译成字符串.swift"; sourceTree = "<group>"; };
 		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 		F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- II. 剪绳子 II.swift"; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				F840C52F254FA5C3008DDFC4 /* 剑指 Offer 43. 1～n 整数中 1 出现的次数.swift */,
 				F840C532254FB17D008DDFC4 /* 剑指 Offer 44. 数字序列中某一位的数字.swift */,
 				F89021B0254FC21900984069 /* 剑指 Offer 45. 把数组排成最小的数.swift */,
+				F8AB65D22550087A005D0EC4 /* 剑指 Offer 46. 把数字翻译成字符串.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				F84D7846254BCC9B00CD31E0 /* 剑指 Offer 32 - III. 从上到下打印二叉树 III.swift in Sources */,
 				F84D77DB254BB2F600CD31E0 /* 剑指 Offer 31. 栈的压入、弹出序列.swift in Sources */,
 				81BF2CCA25471E7900F2E47E /* 剑指 Offer 10- II. 青蛙跳台阶问题.swift in Sources */,
+				F8AB65D32550087A005D0EC4 /* 剑指 Offer 46. 把数字翻译成字符串.swift in Sources */,
 				81BF2CC725471E2D00F2E47E /* 剑指 Offer 11. 旋转数组的最小数字.swift in Sources */,
 				F866C1C82531930F00D2F02C /* 剑指 Offer 05. 替换空格.swift in Sources */,
 				F866C16325315AF600D2F02C /* 剑指 Offer 03. 数组中重复的数字.swift in Sources */,
