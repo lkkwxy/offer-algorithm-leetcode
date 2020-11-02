@@ -3,38 +3,4 @@
    uuid = "3DB59FFD-1B9A-40D3-B625-5E93ED61D26C"
    type = "1"
    version = "2.0">
-   <Breakpoints>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E5E3AB4A-1BFC-4719-AC20-77FE041D2A42"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 33. &#x4e8c;&#x53c9;&#x641c;&#x7d22;&#x6811;&#x7684;&#x540e;&#x5e8f;&#x904d;&#x5386;&#x5e8f;&#x5217;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "verifyPostorder(postorder:start:end:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "419D5D44-E9B7-4F9C-93CA-7234C515838A"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 33. &#x4e8c;&#x53c9;&#x641c;&#x7d22;&#x6811;&#x7684;&#x540e;&#x5e8f;&#x904d;&#x5386;&#x5e8f;&#x5217;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
-            landmarkName = "verifyPostorder(postorder:start:end:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-   </Breakpoints>
 </Bucket>

@@ -27,6 +27,7 @@
 		81CE5302254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81CE5301254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift */; };
 		81CE5305254EDD500065FA24 /* 剑指 Offer 42. 连续子数组的最大和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81CE5304254EDD500065FA24 /* 剑指 Offer 42. 连续子数组的最大和.swift */; };
 		F840C4C5254C1658008DDFC4 /* 剑指 Offer 39. 数组中出现次数超过一半的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C4C4254C1658008DDFC4 /* 剑指 Offer 39. 数组中出现次数超过一半的数字.swift */; };
+		F840C52D254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C52C254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift */; };
 		F84D770C254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */; };
 		F84D776D254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */; };
 		F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */; };
@@ -84,6 +85,7 @@
 		81CE5301254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 40. 最小的k个数.swift"; sourceTree = "<group>"; };
 		81CE5304254EDD500065FA24 /* 剑指 Offer 42. 连续子数组的最大和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 42. 连续子数组的最大和.swift"; sourceTree = "<group>"; };
 		F840C4C4254C1658008DDFC4 /* 剑指 Offer 39. 数组中出现次数超过一半的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 39. 数组中出现次数超过一半的数字.swift"; sourceTree = "<group>"; };
+		F840C52C254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 41. 数据流中的中位数.swift"; sourceTree = "<group>"; };
 		F84D770B254A983E00CD31E0 /* 剑指 Offer 20. 表示数值的字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 20. 表示数值的字符串.swift"; sourceTree = "<group>"; };
 		F84D776C254AC66200CD31E0 /* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.swift"; sourceTree = "<group>"; };
 		F84D776F254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 22. 链表中倒数第k个节点.swift"; sourceTree = "<group>"; };
@@ -181,6 +183,7 @@
 				81CE52FE254E79D50065FA24 /* 剑指 Offer 38. 字符串的排列.swift */,
 				81CE5301254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift */,
 				81CE5304254EDD500065FA24 /* 剑指 Offer 42. 连续子数组的最大和.swift */,
+				F840C52C254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				F8F872B225490F7D0040A8B0 /* 剑指 Offer 18. 删除链表的节点.swift in Sources */,
 				F84D7843254BCB0500CD31E0 /* 剑指 Offer 32 - II. 从上到下打印二叉树 II.swift in Sources */,
 				F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */,
+				F840C52D254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift in Sources */,
 				81CE5302254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift in Sources */,
 				F84D7770254AD76000CD31E0 /* 剑指 Offer 22. 链表中倒数第k个节点.swift in Sources */,
 				F84D7776254AE22E00CD31E0 /* 剑指 Offer 25. 合并两个排序的链表.swift in Sources */,
