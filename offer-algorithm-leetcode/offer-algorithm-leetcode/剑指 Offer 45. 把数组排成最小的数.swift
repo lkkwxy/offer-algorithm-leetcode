@@ -7,7 +7,7 @@
 
 import Foundation
 func minNumber(_ nums: [Int]) -> String {
-    let sortedNums = nums.sorted { (num1, num2) -> Bool in
+    return nums.sorted { (num1, num2) -> Bool in
         if num1 == num2 { return true }
         let num1Chars = "\(num1)".utf8CString.dropLast()
         let num2Chars = "\(num2)".utf8CString.dropLast()
@@ -42,7 +42,5 @@ func minNumber(_ nums: [Int]) -> String {
     }.reduce("") { (result, item) -> String in
         return result + "\(item)"
     }
-    print(sortedNums)
-    return ""
 }
 

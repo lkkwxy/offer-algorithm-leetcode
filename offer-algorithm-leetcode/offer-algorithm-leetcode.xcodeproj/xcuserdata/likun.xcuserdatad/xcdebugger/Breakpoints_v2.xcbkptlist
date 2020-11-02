@@ -3,22 +3,4 @@
    uuid = "3DB59FFD-1B9A-40D3-B625-5E93ED61D26C"
    type = "1"
    version = "2.0">
-   <Breakpoints>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AF4F1061-287F-4A1C-B18A-B1CC5C298625"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 45. &#x628a;&#x6570;&#x7ec4;&#x6392;&#x6210;&#x6700;&#x5c0f;&#x7684;&#x6570;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "minNumber(_:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-   </Breakpoints>
 </Bucket>
