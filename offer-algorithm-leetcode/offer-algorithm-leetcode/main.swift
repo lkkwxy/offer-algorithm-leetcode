@@ -55,4 +55,4 @@ print(a.findMedian())
 a.addNum(0)
 print(a.findMedian())
 
-countDigitOne(12)
+findNthDigit(19)
