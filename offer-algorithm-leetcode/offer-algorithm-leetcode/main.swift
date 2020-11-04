@@ -60,3 +60,4 @@ print(translateNum(25))
 
 lengthOfLongestSubstring("abba")
 nthUglyNumber(10)
+reversePairs([1,3,2,3,1])
