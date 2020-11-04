@@ -26,15 +26,11 @@ import Foundation
  著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 func nthUglyNumber(_ n: Int) -> Int {
-    if n <= 5 {
-        return n
-    }
+
     var results = Array(repeating: 1, count: n)
-    for i in 1..<5 {
-        results[i] = i + 1
-    }
-    var i = 2, j = 1, k = 1
-    for num in 5..<n {
+
+    var i = 0, j = 0, k = 1
+    for num in 1..<n {
         let lastUglyNumber = results[num - 1]
         let num1 = results[i] * 2
         let num2 = results[j] * 3
