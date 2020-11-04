@@ -62,4 +62,3 @@ print(translateNum(25))
 print(lengthOfLongestSubstring("abba"))
 
 testGetIntersectionNode()
-search([1], 1)
