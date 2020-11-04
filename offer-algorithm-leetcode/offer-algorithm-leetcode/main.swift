@@ -59,3 +59,4 @@ print(a.findMedian())
 print(translateNum(25))
 
 lengthOfLongestSubstring("abba")
+nthUglyNumber(10)
