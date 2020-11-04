@@ -3,4 +3,22 @@
    uuid = "1A87D842-983E-4C70-8A34-6F54C9E9FAB4"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15FE1A2A-C310-4E69-A8D3-DB13EC9BA8AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 52. &#x4e24;&#x4e2a;&#x94fe;&#x8868;&#x7684;&#x7b2c;&#x4e00;&#x4e2a;&#x516c;&#x5171;&#x8282;&#x70b9;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getIntersectionNode(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
