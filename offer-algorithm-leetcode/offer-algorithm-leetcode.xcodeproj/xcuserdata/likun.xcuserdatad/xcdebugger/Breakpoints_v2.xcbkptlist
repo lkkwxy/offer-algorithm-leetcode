@@ -68,5 +68,53 @@
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF4DCBF6-FA58-4E84-9379-1C75C13CC6B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 56 - II. &#x6570;&#x7ec4;&#x4e2d;&#x6570;&#x5b57;&#x51fa;&#x73b0;&#x7684;&#x6b21;&#x6570; II.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "singleNumber(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D2651D3-30B5-49D8-9CFF-677076F764A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 56 - II. &#x6570;&#x7ec4;&#x4e2d;&#x6570;&#x5b57;&#x51fa;&#x73b0;&#x7684;&#x6b21;&#x6570; II.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "singleNumber(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCB5CFC2-CD4D-40B5-A0CF-2557B39285CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "offer-algorithm-leetcode/&#x5251;&#x6307; Offer 56 - II. &#x6570;&#x7ec4;&#x4e2d;&#x6570;&#x5b57;&#x51fa;&#x73b0;&#x7684;&#x6b21;&#x6570; II.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "singleNumber(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

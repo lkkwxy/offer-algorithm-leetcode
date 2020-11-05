@@ -62,3 +62,4 @@ print(translateNum(25))
 print(lengthOfLongestSubstring("abba"))
 
 testGetIntersectionNode()
+singleNumber([3,4,4,4])

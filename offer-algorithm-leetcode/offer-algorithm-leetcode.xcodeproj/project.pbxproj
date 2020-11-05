@@ -58,6 +58,8 @@
 		F8AB662325523FDB005D0EC4 /* 剑指 Offer 51. 数组中的逆序对.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB662225523FDB005D0EC4 /* 剑指 Offer 51. 数组中的逆序对.swift */; };
 		F8AB67A025541B26005D0EC4 /* 剑指 Offer 55 - I. 二叉树的深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679F25541B26005D0EC4 /* 剑指 Offer 55 - I. 二叉树的深度.swift */; };
 		F8AB67A325541C9D005D0EC4 /* 剑指 Offer 55 - II. 平衡二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB67A225541C9D005D0EC4 /* 剑指 Offer 55 - II. 平衡二叉树.swift */; };
+		F8AB67A625541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB67A525541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift */; };
+		F8AB67A9255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB67A8255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift */; };
 		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
 		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 		F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */; };
@@ -132,6 +134,8 @@
 		F8AB662225523FDB005D0EC4 /* 剑指 Offer 51. 数组中的逆序对.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 51. 数组中的逆序对.swift"; sourceTree = "<group>"; };
 		F8AB679F25541B26005D0EC4 /* 剑指 Offer 55 - I. 二叉树的深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 55 - I. 二叉树的深度.swift"; sourceTree = "<group>"; };
 		F8AB67A225541C9D005D0EC4 /* 剑指 Offer 55 - II. 平衡二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 55 - II. 平衡二叉树.swift"; sourceTree = "<group>"; };
+		F8AB67A525541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 56 - I. 数组中数字出现的次数.swift"; sourceTree = "<group>"; };
+		F8AB67A8255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 56 - II. 数组中数字出现的次数 II.swift"; sourceTree = "<group>"; };
 		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 		F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- II. 剪绳子 II.swift"; sourceTree = "<group>"; };
@@ -229,6 +233,8 @@
 				81E1558C2552FE3B00FB7360 /* 剑指 Offer 54. 二叉搜索树的第k大节点.swift */,
 				F8AB679F25541B26005D0EC4 /* 剑指 Offer 55 - I. 二叉树的深度.swift */,
 				F8AB67A225541C9D005D0EC4 /* 剑指 Offer 55 - II. 平衡二叉树.swift */,
+				F8AB67A525541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift */,
+				F8AB67A8255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -301,6 +307,7 @@
 				F8F872AB25490B4E0040A8B0 /* 剑指 Offer 16. 数值的整数次方.swift in Sources */,
 				F840C533254FB17D008DDFC4 /* 剑指 Offer 44. 数字序列中某一位的数字.swift in Sources */,
 				F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */,
+				F8AB67A9255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift in Sources */,
 				F8AB67A325541C9D005D0EC4 /* 剑指 Offer 55 - II. 平衡二叉树.swift in Sources */,
 				81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */,
 				F84D77D8254BAEF000CD31E0 /* 剑指 Offer 30. 包含min函数的栈.swift in Sources */,
@@ -309,6 +316,7 @@
 				F89021B1254FC21900984069 /* 剑指 Offer 45. 把数组排成最小的数.swift in Sources */,
 				F84D783F254BCA2E00CD31E0 /* 剑指 Offer 32 - I. 从上到下打印二叉树.swift in Sources */,
 				F8AB65ED25513ACC005D0EC4 /* 剑指 Offer 49. 丑数.swift in Sources */,
+				F8AB67A625541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift in Sources */,
 				F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */,
 				81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */,
 				F866C15B25315A8A00D2F02C /* main.swift in Sources */,
