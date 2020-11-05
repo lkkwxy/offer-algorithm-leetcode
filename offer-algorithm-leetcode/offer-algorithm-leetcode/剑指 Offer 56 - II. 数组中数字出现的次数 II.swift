@@ -48,8 +48,10 @@ func singleNumber(_ nums: [Int]) -> Int {
     }
     var result = 0
     mask = 1
-    for bit in bits where bit % 3 != 0 {
-        result = result | mask
+    for bit in bits {
+        if bit % 3 != 0 {
+            result = result | mask
+        }
         mask = mask << 1
     }
     return result
