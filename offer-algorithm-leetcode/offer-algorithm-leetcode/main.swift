@@ -8,3 +8,4 @@
 import Foundation
 /// leetCode地址：https://leetcode-cn.com/problemset/lcof/
 
+print(sumNums(10))
