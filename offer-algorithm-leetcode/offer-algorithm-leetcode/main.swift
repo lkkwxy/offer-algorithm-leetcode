@@ -8,4 +8,3 @@
 import Foundation
 /// leetCode地址：https://leetcode-cn.com/problemset/lcof/
 
-singleNumber([3,4,3,3])
