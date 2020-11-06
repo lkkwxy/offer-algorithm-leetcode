@@ -23,7 +23,7 @@ func sumNums1(_ n: Int) -> Int {
     return sum
 }
 
-func sumNums3(_ n: Int) -> Int {
+func sumNums(_ n: Int) -> Int {
     return Array(1...n).reduce(0) { $0 + $1 }
 }
 
