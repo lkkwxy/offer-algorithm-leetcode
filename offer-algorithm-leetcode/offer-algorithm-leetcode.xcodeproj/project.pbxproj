@@ -65,6 +65,7 @@
 		F8AB67A625541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB67A525541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift */; };
 		F8AB67A9255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB67A8255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift */; };
 		F8AB690B25555482005D0EC4 /* 剑指 Offer 58 - II. 左旋转字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690A25555482005D0EC4 /* 剑指 Offer 58 - II. 左旋转字符串.swift */; };
+		F8AB690E25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690D25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift */; };
 		F8F8729D254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */; };
 		F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */; };
 		F8F872A3254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */; };
@@ -146,6 +147,7 @@
 		F8AB67A525541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 56 - I. 数组中数字出现的次数.swift"; sourceTree = "<group>"; };
 		F8AB67A8255425C0005D0EC4 /* 剑指 Offer 56 - II. 数组中数字出现的次数 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 56 - II. 数组中数字出现的次数 II.swift"; sourceTree = "<group>"; };
 		F8AB690A25555482005D0EC4 /* 剑指 Offer 58 - II. 左旋转字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 58 - II. 左旋转字符串.swift"; sourceTree = "<group>"; };
+		F8AB690D25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 59 - I. 滑动窗口的最大值.swift"; sourceTree = "<group>"; };
 		F8F8729C254838F60040A8B0 /* 剑指 Offer 13. 机器人的运动范围.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 13. 机器人的运动范围.swift"; sourceTree = "<group>"; };
 		F8F8729F25483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- I. 剪绳子.swift"; sourceTree = "<group>"; };
 		F8F872A2254841150040A8B0 /* 剑指 Offer 14- II. 剪绳子 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 14- II. 剪绳子 II.swift"; sourceTree = "<group>"; };
@@ -250,6 +252,7 @@
 				81E155A0255451B400FB7360 /* 剑指 Offer 58 - I. 翻转单词顺序.swift */,
 				81E155A3255453F900FB7360 /* 剑指 Offer 64. 求1+2+…+n.swift */,
 				F8AB690A25555482005D0EC4 /* 剑指 Offer 58 - II. 左旋转字符串.swift */,
+				F8AB690D25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8AB690E25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift in Sources */,
 				F8F872A025483D3A0040A8B0 /* 剑指 Offer 14- I. 剪绳子.swift in Sources */,
 				81BF2CE9254B0EF200F2E47E /* 剑指 Offer 28. 对称的二叉树.swift in Sources */,
 				F8AB662325523FDB005D0EC4 /* 剑指 Offer 51. 数组中的逆序对.swift in Sources */,
