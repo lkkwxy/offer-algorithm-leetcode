@@ -38,6 +38,27 @@ import Foundation
  链接：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree
  著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
+
+/**
+ java解法
+ class Solution {
+     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+         int min = p.val;
+         int max = q.val;
+         if (max < min) {
+             min = q.val;
+             max = p.val;
+         }
+         if (root.val >= min && root.val <= max) {
+             return root;
+         } else if (root.val > min) {
+             return this.lowestCommonAncestor(root.left, p, q);
+         } else {
+             return this.lowestCommonAncestor(root.right, p, q);
+         }
+     }
+ }
+ */
 func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
     guard let root = root else {
         return nil

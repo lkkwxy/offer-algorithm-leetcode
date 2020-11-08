@@ -15,6 +15,7 @@
 		816209432557FC6A000C31B0 /* 剑指 Offer 66. 构建乘积数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816209422557FC6A000C31B0 /* 剑指 Offer 66. 构建乘积数组.swift */; };
 		81620946255802DE000C31B0 /* 剑指 Offer 67. 把字符串转换成整数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 81620945255802DE000C31B0 /* 剑指 Offer 67. 把字符串转换成整数 .swift */; };
 		8162094925580683000C31B0 /* 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162094825580683000C31B0 /* 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.swift */; };
+		8162094C25580B71000C31B0 /* 剑指 Offer 68 - II. 二叉树的最近公共祖先.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162094B25580B71000C31B0 /* 剑指 Offer 68 - II. 二叉树的最近公共祖先.swift */; };
 		81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */; };
 		81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */; };
 		816F1BA1254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816F1BA0254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift */; };
@@ -104,6 +105,7 @@
 		816209422557FC6A000C31B0 /* 剑指 Offer 66. 构建乘积数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 66. 构建乘积数组.swift"; sourceTree = "<group>"; };
 		81620945255802DE000C31B0 /* 剑指 Offer 67. 把字符串转换成整数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 67. 把字符串转换成整数 .swift"; sourceTree = "<group>"; };
 		8162094825580683000C31B0 /* 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.swift"; sourceTree = "<group>"; };
+		8162094B25580B71000C31B0 /* 剑指 Offer 68 - II. 二叉树的最近公共祖先.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 68 - II. 二叉树的最近公共祖先.swift"; sourceTree = "<group>"; };
 		81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 07. 重建二叉树.swift"; sourceTree = "<group>"; };
 		816F1BA0254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 34. 二叉树中和为某一值的路径.swift"; sourceTree = "<group>"; };
@@ -277,6 +279,7 @@
 				816209422557FC6A000C31B0 /* 剑指 Offer 66. 构建乘积数组.swift */,
 				81620945255802DE000C31B0 /* 剑指 Offer 67. 把字符串转换成整数 .swift */,
 				8162094825580683000C31B0 /* 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.swift */,
+				8162094B25580B71000C31B0 /* 剑指 Offer 68 - II. 二叉树的最近公共祖先.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 				F8AB65ED25513ACC005D0EC4 /* 剑指 Offer 49. 丑数.swift in Sources */,
 				F8AB67A625541FB6005D0EC4 /* 剑指 Offer 56 - I. 数组中数字出现的次数.swift in Sources */,
 				F866C1C3253183FD00D2F02C /* 剑指 Offer 04. 二维数组中的查找.swift in Sources */,
+				8162094C25580B71000C31B0 /* 剑指 Offer 68 - II. 二叉树的最近公共祖先.swift in Sources */,
 				81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */,
 				F866C15B25315A8A00D2F02C /* main.swift in Sources */,
 				F840C530254FA5C3008DDFC4 /* 剑指 Offer 43. 1～n 整数中 1 出现的次数.swift in Sources */,
