@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		816209302556A929000C31B0 /* 剑指 Offer 59 - II. 队列的最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162092F2556A929000C31B0 /* 剑指 Offer 59 - II. 队列的最大值.swift */; };
 		816209332556BF43000C31B0 /* 剑指 Offer 61. 扑克牌中的顺子.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816209322556BF43000C31B0 /* 剑指 Offer 61. 扑克牌中的顺子.swift */; };
+		816209362556C1C8000C31B0 /* 剑指 Offer 62. 圆圈中最后剩下的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816209352556C1C8000C31B0 /* 剑指 Offer 62. 圆圈中最后剩下的数字.swift */; };
 		81654A2625351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */; };
 		81654A302536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */; };
 		816F1BA1254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816F1BA0254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift */; };
@@ -92,6 +93,7 @@
 /* Begin PBXFileReference section */
 		8162092F2556A929000C31B0 /* 剑指 Offer 59 - II. 队列的最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 59 - II. 队列的最大值.swift"; sourceTree = "<group>"; };
 		816209322556BF43000C31B0 /* 剑指 Offer 61. 扑克牌中的顺子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 61. 扑克牌中的顺子.swift"; sourceTree = "<group>"; };
+		816209352556C1C8000C31B0 /* 剑指 Offer 62. 圆圈中最后剩下的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 62. 圆圈中最后剩下的数字.swift"; sourceTree = "<group>"; };
 		81654A2525351AE400848BEF /* 剑指 Offer 06. 从尾到头打印链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 06. 从尾到头打印链表.swift"; sourceTree = "<group>"; };
 		81654A2F2536792D00848BEF /* 剑指 Offer 07. 重建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 07. 重建二叉树.swift"; sourceTree = "<group>"; };
 		816F1BA0254D857800D0EE5D /* 剑指 Offer 34. 二叉树中和为某一值的路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer 34. 二叉树中和为某一值的路径.swift"; sourceTree = "<group>"; };
@@ -259,6 +261,7 @@
 				F8AB690D25555634005D0EC4 /* 剑指 Offer 59 - I. 滑动窗口的最大值.swift */,
 				8162092F2556A929000C31B0 /* 剑指 Offer 59 - II. 队列的最大值.swift */,
 				816209322556BF43000C31B0 /* 剑指 Offer 61. 扑克牌中的顺子.swift */,
+				816209352556C1C8000C31B0 /* 剑指 Offer 62. 圆圈中最后剩下的数字.swift */,
 			);
 			path = "offer-algorithm-leetcode";
 			sourceTree = "<group>";
@@ -375,6 +378,7 @@
 				81E15592255440CC00FB7360 /* 剑指 Offer 57. 和为s的两个数字.swift in Sources */,
 				81E155A4255453F900FB7360 /* 剑指 Offer 64. 求1+2+…+n.swift in Sources */,
 				F8F872AE25490C8D0040A8B0 /* 剑指 Offer 17. 打印从1到最大的n位数.swift in Sources */,
+				816209362556C1C8000C31B0 /* 剑指 Offer 62. 圆圈中最后剩下的数字.swift in Sources */,
 				F840C52D254F9E01008DDFC4 /* 剑指 Offer 41. 数据流中的中位数.swift in Sources */,
 				81CE5302254E8A6A0065FA24 /* 剑指 Offer 40. 最小的k个数.swift in Sources */,
 				816209302556A929000C31B0 /* 剑指 Offer 59 - II. 队列的最大值.swift in Sources */,
